@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Port/static/css/main.e53e4bd7.css",
+    "main.js": "/Port/static/js/main.832450b1.js",
+    "static/media/Me.jpg": "/Port/static/media/Me.1d6c750183396f472e9c.jpg",
+    "static/media/HERO.png": "/Port/static/media/HERO.ac7f5f4bebb63d86d035.png",
+    "static/media/Gomez-Cv.pdf": "/Port/static/media/Gomez-Cv.44b540c75c52c75733ab.pdf",
+    "static/media/hacker (1).png": "/Port/static/media/hacker (1).e5e582cf63e9bfa71f9a.png",
+    "static/media/FINIS(3).png": "/Port/static/media/FINIS(3).de00b13c11aeb7742f0c.png",
+    "static/media/hand.svg": "/Port/static/media/hand.330b49cc7cd3bedaa20e738eb0d42fc1.svg",
+    "index.html": "/Port/index.html",
+    "main.e53e4bd7.css.map": "/Port/static/css/main.e53e4bd7.css.map",
+    "main.832450b1.js.map": "/Port/static/js/main.832450b1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e53e4bd7.css",
+    "static/js/main.832450b1.js"
+  ]
+}
